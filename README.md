@@ -1,2 +1,2 @@
 # projeto-cordel
- Cordel Cristão criando por Tarcísio José Fernandes Lopes
+ Pagina de um cordel. Projeto realizado para apresizado do curso de HTML e CSS.
